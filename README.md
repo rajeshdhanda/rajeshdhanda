@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeshdhanda
 - 👀 I’m interested in MLOps | Machine learning |  Deep learning | Computer Vision . 
 - 💞️ I’m looking to collaborate on projects and research papers. 
-- 📫 Can reach me on rajeshkrdhanda@gmail.com
+- 📫 Can reach me on [Linkedin](https://www.linkedin.com/in/rajesh-dhanda/) or rajeshkrdhanda@gmail.com
 
 <!---
 rajeshdhanda/rajeshdhanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
