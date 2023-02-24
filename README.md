@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeshdhanda
-- 👀 Interested in MLOps | Machine learning |  Deep learning | Computer Vision . 
+- 👀 Interested in MLOps | DevOps | Machine learning |  Deep learning | Computer Vision . 
 - 💞️ looking to collaborate on projects and research papers. 
 - 📫 Can reach me on [Linkedin](https://www.linkedin.com/in/rajesh-dhanda/)
 
