@@ -1,5 +1,3 @@
-# Hi, I'm Rajesh Kumar 👋
-
 ### Senior Machine Learning Engineer | MLOps | GenAI | AI Infrastructure
 
 Senior Machine Learning Engineer with **5+ years of experience** building production ML systems, Generative AI applications, and scalable AI infrastructure across Azure, GCP, and Databricks.
